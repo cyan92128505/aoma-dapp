@@ -1,0 +1,8 @@
+.c-viewer-card.c-viewer-card-blur {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.c-viewer-card .l-viewer-card-mask {
+  display: none;
+}
